@@ -57,4 +57,4 @@ module.exports=require("./lib/axios");
 },{"./lib/axios":"Wzmt"}],"mahc":[function(require,module,exports) {
 var o=1;o&&console.log("kikou les amis");var s=require("axios");console.log("axios :",s);
 },{"axios":"O4Aa"}]},{},["mahc"], null)
-//# sourceMappingURL=https://nicolasjamar.github.io/parcel-test/js.dd487dbc.js.map
+//# sourceMappingURL=js.dd487dbc.js.map
