@@ -1,1 +1,0 @@
-{"version":3,"sources":["src\\scss\\style.scss"],"names":[],"mappings":"AAAA;EACC;;AAEA;EACC","file":"style.082fdd9f.css","sourceRoot":"..","sourcesContent":["body {\r\n\tbackground: green;\r\n\r\n\th1 {\r\n\t\tcolor: yellow;\r\n\t}\r\n}"]}
