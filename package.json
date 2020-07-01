@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "rm -rf .cache dist && parcel build index.html --public-url ./"
+    "dev": "rm -rf .cache dist && parcel index.html",
+    "build": "rm -rf .cache dist && parcel build index.html --public-url https://nicolasjamar.github.io/parcel-test/"
   },
   "keywords": [],
   "author": "",
